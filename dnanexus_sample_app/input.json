@@ -1,0 +1,53 @@
+{
+    "bams": [
+        {
+            "$dnanexus_link": {
+                "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+                "id": "file-FXJqq480g94qB3YfF2VyYQpZ"
+            }
+        }, 
+        {
+            "$dnanexus_link": {
+                "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+                "id": "file-FXJqq500g94q3jJ8F311ZqF2"
+            }
+        }, 
+        {
+            "$dnanexus_link": {
+                "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+                "id": "file-FXJqq5Q0g94Yv6JQF36QYFZQ"
+            }
+        }, 
+        {
+            "$dnanexus_link": {
+                "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+                "id": "file-FXJqq5j0g94Yv6JQF36QYFZZ"
+            }
+        }
+    ], 
+    "reffasta": {
+        "$dnanexus_link": {
+            "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+            "id": "file-FXJqqK80g94zf6Q5JXBKP77b"
+        }
+    }, 
+    "regionfile": {
+        "$dnanexus_link": {
+            "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+            "id": "file-FXJqqGQ0g94yYjvPJY1Bbyyf"
+        }
+    }, 
+    "strinfo": {
+        "$dnanexus_link": {
+            "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+            "id": "file-FXJqqGj0g94kxP9qJYV3q7yB"
+        }
+    }, 
+    "famfile": {
+        "$dnanexus_link": {
+            "project": "project-FXJ88j80g94V9FGK2Fyk8P9j", 
+            "id": "file-FXJqqQQ0g94fFXK09b8VX1X0"
+        }
+    }
+}
+
