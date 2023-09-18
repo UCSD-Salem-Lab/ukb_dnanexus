@@ -1,5 +1,22 @@
 # UK Biobank with DNAnexus Tutorial
 
+### List of unrelated subjects
+
+```bash
+# get the list of unrelated subjects
+/salemlab/ukb/GenoInfo
+ll *kinship_0.0442.txt
+```
+
+| Files                                                        |
+| ------------------------------------------------------------ |
+| /salemlab/ukb/GenoInfo/UKBiobank_genoQC_allancestry_unrelated_kinship_0.0442.txt |
+| /salemlab/ukb/GenoInfo/UKBiobank_genoQC_AFR_unrelated_list_kinship_0.0442.txt |
+| /salemlab/ukb/GenoInfo/UKBiobank_genoQC_EAS_unrelated_list_kinship_0.0442.txt |
+| /salemlab/ukb/GenoInfo/UKBiobank_genoQC_SAS_unrelated_list_kinship_0.0442.txt |
+| /salemlab/ukb/GenoInfo/UKBiobank_genoQC_EUR_unrelated_list_kinship_0.0442.txt |
+
+
 
 ### Sample command
 
